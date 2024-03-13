@@ -1,0 +1,40 @@
+/* Estilos para a barra de navegação */
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.navbar a.activate {
+    background-color: #333;
+    color: white;
+}
+
+/* Estilos para o conteúdo */
+/* Estilos para o conteúdo */
+/* Estilos para o conteúdo */
+/* Estilos para o conteúdo */
+.content {
+    padding: 20px;
+    text-align: center; /* Centraliza o conteúdo horizontalmente */
+}
+
+/* Estilos para o texto de boas-vindas */
+.content h2 {
+    color: #333;
+    margin: 0 auto; /* Centraliza horizontalmente */
+    max-width: 600px; /* Define uma largura máxima para o texto */
+}
